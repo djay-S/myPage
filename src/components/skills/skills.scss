@@ -1,0 +1,23 @@
+.skills {
+  position: relative;
+  //   min-height: 100vh;
+  background-image: url("https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%, 50px;
+//   min-height: 19rem;
+  h1 {
+    padding-bottom: 20rem;
+  }
+  .para {
+      opacity: 0.5;
+    // position: absolute;
+    background-color: white;
+    transform: skew(0deg, -3deg);
+    padding: 2rem;
+  }
+  p {
+    // margin: 1rem 1rem;
+    transform: skew(0deg, 3deg);
+  }
+}
